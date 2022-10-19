@@ -5,5 +5,5 @@
 
 # Input
 
-# name = input("Please Type Your Name: ")
-# print(name)
+name = raw_input("Enter Your Name!")
+print("Your name is " + name)
